@@ -21,6 +21,11 @@ Experience the paradoxical wisdom of Socrates with beautiful visual elements.
 
 ## 🚀 실행 방법 (How to Run)
 
+### 프로그램 정보 보기 (View Program Information)
+```bash
+python3 demo.py
+```
+
 ### 메인 런처 실행 (Run Main Launcher)
 ```bash
 python3 run.py
