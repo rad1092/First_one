@@ -1,50 +1,95 @@
-# First_one
+# 🧠 나는 아무것도 모른다 (I Know Nothing)
 
-Welcome to First_one repository! / First_one 저장소에 오신 것을 환영합니다!
+> "The only true wisdom is in knowing you know nothing." - Socrates
 
-## 🚀 시작하기 (Getting Started)
+## 📖 소개 (Introduction)
 
-### 이 프로젝트를 기동하는 방법 (How to Launch This Project)
+이 프로젝트는 **"나는 아무것도 모른다"**라는 철학적 주제를 탐구하는 인터랙티브 Python 프로그램입니다.
+소크라테스의 역설적 지혜를 아름다운 시각적 경험과 함께 체험할 수 있습니다.
 
-이 저장소는 시작 프로젝트입니다. 다음 단계를 따라하세요:
+This project explores the philosophical theme of **"I know nothing"** through interactive Python programs.
+Experience the paradoxical wisdom of Socrates with beautiful visual elements.
 
-#### 1. 저장소 복제 (Clone the Repository)
+## 🌟 특징 (Features)
+
+- 🌸 **지혜의 정원 (Wisdom Garden)**: 질문을 통해 지혜의 씨앗을 키우는 인터랙티브 경험
+- 🧠 **지식의 역설 (Knowledge Paradox)**: 소크라테스 철학의 깊은 탐구
+- 🎨 아름다운 ASCII 아트와 애니메이션
+- 💭 한국어와 영어 이중 언어 지원
+- ✨ 철학적 명언과 명상 모드
+- 🎯 인터랙티브 질문과 대화
+
+## 🚀 실행 방법 (How to Run)
+
+### 프로그램 정보 보기 (View Program Information)
 ```bash
-git clone https://github.com/rad1092/First_one.git
-cd First_one
+python3 demo.py
 ```
 
-#### 2. 프로젝트 구조 확인 (Check Project Structure)
+### 메인 런처 실행 (Run Main Launcher)
 ```bash
-ls -la
+python3 run.py
 ```
 
-#### 3. 다음 단계 (Next Steps)
-- 원하는 프로그래밍 언어로 코드를 추가하세요
-- 프로젝트의 목적에 맞게 파일을 생성하세요
-- README를 업데이트하여 프로젝트 설명을 추가하세요
+### 개별 프로그램 실행 (Run Individual Programs)
 
-## 📝 프로젝트 정보 (Project Information)
+**지혜의 정원 (Wisdom Garden):**
+```bash
+python3 wisdom_garden.py
+```
 
-이 저장소는 현재 기본 구조만 갖추고 있습니다. 
-앞으로 개발할 내용을 추가할 수 있습니다.
+**지식의 역설 (Knowledge Paradox):**
+```bash
+python3 i_know_nothing.py
+```
 
-### 지원 언어 (Supported Languages)
-- I know nothing (literally know nothing)
-- Tengo nadie (realmente no se)
+## 📋 요구사항 (Requirements)
 
-## 🤝 기여하기 (Contributing)
+- Python 3.6 이상 (Python 3.6+)
+- 표준 라이브러리만 사용 (No external dependencies)
 
-1. 이 저장소를 Fork하세요
-2. 새로운 브랜치를 생성하세요 (`git checkout -b feature/amazing-feature`)
-3. 변경사항을 커밋하세요 (`git commit -m 'Add some amazing feature'`)
-4. 브랜치에 Push하세요 (`git push origin feature/amazing-feature`)
-5. Pull Request를 생성하세요
+## 🎓 철학적 배경 (Philosophical Background)
 
-## 📫 연락처 (Contact)
+이 프로젝트는 소크라테스의 유명한 역설에서 영감을 받았습니다:
+"나는 내가 아무것도 모른다는 것을 안다."
 
-프로젝트 관리자: rad1092
+이 역설은 다음을 가르쳐줍니다:
+- 무지를 인정하는 것이 지혜의 시작
+- 질문하는 것의 중요성
+- 겸손함의 가치
+- 평생 학습의 자세
+
+This project is inspired by Socrates' famous paradox:
+"I know that I know nothing."
+
+This paradox teaches us:
+- Admitting ignorance is the beginning of wisdom
+- The importance of asking questions
+- The value of humility
+- The attitude of lifelong learning
+
+## 🌸 프로그램 설명 (Program Description)
+
+### 1. 지혜의 정원 (wisdom_garden.py)
+인터랙티브한 경험으로, 5개의 철학적 질문에 답하며 지혜의 정원을 가꿉니다.
+각 답변은 씨앗이 되어 아름다운 꽃으로 자라납니다.
+
+Interactive experience where you answer 5 philosophical questions and grow a wisdom garden.
+Each answer becomes a seed that grows into a beautiful flower.
+
+### 2. 지식의 역설 (i_know_nothing.py)
+소크라테스 철학을 깊이 탐구하는 프로그램입니다.
+지식 역설 시뮬레이터, 철학적 질문, 명상 모드 등을 포함합니다.
+
+A deep exploration of Socratic philosophy with a knowledge paradox simulator,
+philosophical questions, and meditation mode.
+
+## 🎯 메시지 (Message)
+
+**나는 아무것도 모른다... 그래서 무한히 배울 수 있다! 💫**
+
+**I know nothing... so I can learn infinitely! 💫**
 
 ---
 
-**참고**: 이 프로젝트는 시작 단계입니다. 필요에 따라 내용을 추가하고 수정하세요!
+Made with 💜 and Python | 파이썬으로 만든 철학적 여정
