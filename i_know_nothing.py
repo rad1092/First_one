@@ -144,7 +144,7 @@ class KnowledgeParadox:
         print(f"[{'█' * (unknown // 10)}{'░' * (10 - unknown // 10)}] {unknown}%")
         
         print(f"\n지혜 레벨 (Wisdom Level): {self.wisdom_level} ⭐")
-        print(f"물은 질문들 (Questions Asked): {self.questions_asked} ❓")
+        print(f"묻은 질문들 (Questions Asked): {self.questions_asked} ❓")
         
         if self.wisdom_level >= 3:
             print("\n🎓 축하합니다! 당신은 진정한 철학자입니다!")
