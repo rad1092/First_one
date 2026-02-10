@@ -1,6 +1,6 @@
 # First_one
 first_one
-I know nothing
-literally know kothing
-Tengo nadie
-realmente nose
+I know nothing /n
+literally know kothing /n
+Tengo nadie /n
+realmente nose /n
